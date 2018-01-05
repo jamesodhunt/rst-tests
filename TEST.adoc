@@ -12,12 +12,17 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
+:project-name: Intel(R) Clear Containers
+
 '''
 
 :sectanchors:
 
 Title
 =====
+
+{project-name}
+--------------
 
 Basics
 ------
