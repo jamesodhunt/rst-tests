@@ -25,6 +25,7 @@ Basics
 - *bold text*
 - `mono space`
 - _emphasis_
+- The text pass:[<u>underline me</u>] is underlined.
 
 Section 2
 ---------
