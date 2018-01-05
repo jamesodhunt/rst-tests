@@ -16,7 +16,7 @@ Basics
 Section 2
 ---------
 
-- Colour: [red]#Obvious# and [big red yellow-background]*very obvious*.
+- (C) copyright, (TM) trademark, (R) registered trademark,
 
 Section foo
 ~~~~~~~~~~~
