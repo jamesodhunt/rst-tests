@@ -47,6 +47,13 @@ This is example note 2.
 
 WARNING: Danger Will Robinson!
 
+CAUTION: lorries turning.
+
+IMPORTANT: really!
+
+TIP: use AsciiDoc.
+
+
 Including other files
 ---------------------
 
