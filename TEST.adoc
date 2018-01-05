@@ -44,6 +44,8 @@ Disabled in github it seems, probably for security reasons.
 XXX: before include.
 
 \include::include-me.adoc[]
+
+[source,python]
 \include::hello.py[]
 
 [source]
