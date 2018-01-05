@@ -76,7 +76,7 @@ External links
 --------------
 
 A link to an external website: http://www.docbook.org/[DocBook.org].
-
+A link to a section of an external doc: https://github.com/clearcontainers/runtime/#debugging[Debug section of the CC runtime].
 Refs
 ----
 
