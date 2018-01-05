@@ -43,7 +43,7 @@ include::include-me.adoc[]
 
 [source]
 ----
-include::READNE.md[]
+include::README.md[]
 ----
 
 
