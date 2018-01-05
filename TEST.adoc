@@ -16,6 +16,8 @@ Basics
 Section 2
 ---------
 
+- Colour: [red]#Obvious# and [big red yellow-background]*very obvious*.
+
 Section foo
 ~~~~~~~~~~~
 
