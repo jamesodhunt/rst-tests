@@ -53,3 +53,11 @@ Section 3
 ---------
 
 A link to an external website: http://www.docbook.org/[DocBook.org].
+
+A code block
+------------
+
+[source,bash]
+$ make foo
+
+hello world.
