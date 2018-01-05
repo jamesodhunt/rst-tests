@@ -1,6 +1,11 @@
 
 :toc2:
 
+:toc:
+:toc-placement!:
+
+toc::[]
+
 '''
 
 :sectanchors:
