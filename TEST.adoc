@@ -138,4 +138,8 @@ The end.
 Foo
 ---
 
-Red [red]+++`sum_(i=1)\^n i=(n(n+1))/2`$+++ AsciiMathML formula
+:version: 1.0.1
+[code, subs="attributes"]
+----
+tar -xzvf mysoftware-{version}.tar.gz
+----
