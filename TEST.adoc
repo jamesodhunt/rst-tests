@@ -6,8 +6,12 @@
 Title
 =====
 
-Section 1
----------
+Basics
+------
+
+- *bold text*
+- `mono space`
+- _emphasis_
 
 Section 2
 ---------
