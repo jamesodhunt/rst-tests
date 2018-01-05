@@ -41,10 +41,10 @@ XXX: before include.
 
 include::include-me.adoc[]
 
-// [source]
-// ----
-// include::READNE.md[]
-// ----
+[source]
+----
+include::READNE.md[]
+----
 
 
 XXX: after include.
