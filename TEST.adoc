@@ -32,11 +32,13 @@ NOTE: This is example note 1.
 [NOTE]
 This is example note 2.
 
-Inlcuding other files
+Including other files
 ---------------------
 
 XXX: before include.
-include::include-me.adoc
+
+include::include-me.adoc[tabsize=2]
+
 XXX: after include.
 
 Footnotes
