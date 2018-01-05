@@ -43,7 +43,8 @@ Disabled in github it seems, probably for security reasons.
 
 XXX: before include.
 
-include::include-me.adoc[]
+\include::include-me.adoc[]
+\include::hello.py[]
 
 [source]
 ----
