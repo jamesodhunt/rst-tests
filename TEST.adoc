@@ -1,0 +1,18 @@
+
+
+toc::[]
+
+Title
+=====
+
+Section 1
+---------
+
+Section 2
+---------
+
+Section foo
+~~~~~~~~~~~
+
+Section 3
+---------
