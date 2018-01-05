@@ -135,8 +135,12 @@ an example of something.
 The end.
 ---
 
-Foo
----
+Variable substitution!
+----------------------
+
+:msg: awesome
+
+OMG this is {msg}! But you'll only see the awesomeness if you look at the source for this section of the doc.
 
 :version: 1.0.1
 [code, subs="attributes"]
