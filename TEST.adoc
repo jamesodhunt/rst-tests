@@ -37,7 +37,8 @@ Including other files
 
 XXX: before include.
 
-include::include-me.adoc[tabsize=2]
+include::include-me.adoc[]
+
 
 XXX: after include.
 
