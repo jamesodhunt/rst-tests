@@ -12,7 +12,7 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-:project-name: Intel(R) Clear Containers
+:project-name: Intel® Clear Containers
 
 '''
 
@@ -21,8 +21,10 @@ endif::[]
 Title
 =====
 
-{project-name}
---------------
+Intro
+-----
+
+The name of this project is '{project-name}. {project-name} is aweseme++!
 
 Basics
 ------
