@@ -74,3 +74,11 @@ Refs
 ----
 
 This is a link to the <<Basics>> section.
+
+Tables
+------
+
+| Col 1 title | col 2 title | Col 3 title |
+| C1R1 | C2R1 | C3R1 |
+| C1R2 | C2R2 | C3R2 |
+
