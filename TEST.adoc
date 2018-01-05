@@ -114,3 +114,13 @@ Tables
 | C1R2 | C2R2 | C3R2
 | C1R3 | C2R3 | C3R3
 |===
+
+Examples
+--------
+
+.Example An example
+---
+This is some text for
+an example of something.
+The end.
+---
