@@ -69,3 +69,8 @@ $ make foo
 $ make bar
 
 hello world.
+
+Refs
+----
+
+This is a link to the <<Basics>> section.
