@@ -41,3 +41,5 @@ A footnote footnote:[An example footnote.]
 
 Section 3
 ---------
+
+A link to an external website: http://www.docbook.org/[DocBook.org].
