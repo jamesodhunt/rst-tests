@@ -72,6 +72,8 @@ Section 3
 Source Code
 -----------
 
+Python example:
+
 [source,python]
 if True:
   print("hello")
@@ -80,15 +82,25 @@ if True:
 A code block
 ------------
 
+Bash example:
+
 [source,bash]
 $ make foo
 $ make bar
+$ ls
 
-hello world.
+Makefile example:
 
 [source,make]
 default:
     @echo done.
+
+Golang example:
+
+[source,make]
+func foo() {
+    fmt.Println("hello")
+}
 
 External links
 --------------
