@@ -37,7 +37,7 @@ Footnotes
 
 Foo.
 
-footnote:[this is awesome.]
+A footnote footnote:[An example footnote.]
 
 Section 3
 ---------
