@@ -97,7 +97,7 @@ default:
 
 Golang example:
 
-[source,make]
+[source,go]
 func foo() {
     fmt.Println("hello")
 }
