@@ -32,6 +32,13 @@ NOTE: This is example note 1.
 [NOTE]
 This is example note 2.
 
+Inlcuding other files
+---------------------
+
+XXX: before include.
+include::include-me.adoc
+XXX: after include.
+
 Footnotes
 ---------
 
