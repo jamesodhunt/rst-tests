@@ -81,7 +81,7 @@ Tables
 
 [width="80%",options="header"]
 |===
-| Col 1 title | col 2 title | Col 3 title |
+| Col A | Col B | Col C |
 | C1R1 | C2R1 | C3R1 |
 | C1R2 | C2R2 | C3R2 |
 | C1R3 | C2R3 | C3R3 |
