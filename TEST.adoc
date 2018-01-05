@@ -53,18 +53,6 @@ IMPORTANT: really!
 
 TIP: use AsciiDoc.
 
-
-Including other files
----------------------
-
-Disabled in github it seems, probably for security reasons.
-
-XXX: before include.
-
-\include::include-me.adoc[]
-
-XXX: after include.
-
 Footnotes
 ---------
 
@@ -79,9 +67,9 @@ Source Code
 -----------
 
 [source,python]
-===
-print("hello")
-===
+if True:
+  print("hello")
+
 
 A code block
 ------------
