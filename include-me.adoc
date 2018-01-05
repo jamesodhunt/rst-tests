@@ -1,0 +1,1 @@
+I am an AsciiDoc designed to be included by another AsciiDoc file!
