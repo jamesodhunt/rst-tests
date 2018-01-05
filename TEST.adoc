@@ -37,6 +37,8 @@ WARNING: Danger Will Robinson!
 Including other files
 ---------------------
 
+Disabled in github it seems, probably for security reasons.
+
 XXX: before include.
 
 include::include-me.adoc[]
@@ -59,8 +61,6 @@ A footnote footnote:[An example footnote.]
 Section 3
 ---------
 
-A link to an external website: http://www.docbook.org/[DocBook.org].
-
 A code block
 ------------
 
@@ -69,6 +69,11 @@ $ make foo
 $ make bar
 
 hello world.
+
+External links
+--------------
+
+A link to an external website: http://www.docbook.org/[DocBook.org].
 
 Refs
 ----
