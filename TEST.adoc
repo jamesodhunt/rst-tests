@@ -18,6 +18,12 @@ Section 2
 
 - (C) copyright, (TM) trademark, (R) registered trademark,
 
+Literal block
+~~~~~~~~~~~~~
+
+  Indented text is treated as
+  literal text.
+
 Section foo
 ~~~~~~~~~~~
 
