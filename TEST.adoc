@@ -86,6 +86,10 @@ $ make bar
 
 hello world.
 
+[source,make]
+default:
+    @echo done.
+
 External links
 --------------
 
