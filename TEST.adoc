@@ -63,15 +63,6 @@ XXX: before include.
 
 \include::include-me.adoc[]
 
-[source,python]
-\include::hello.py[]
-
-[source]
-----
-include::README.md[]
-----
-
-
 XXX: after include.
 
 Footnotes
@@ -83,6 +74,14 @@ A footnote footnote:[An example footnote.]
 
 Section 3
 ---------
+
+Source Code
+-----------
+
+[source,python]
+===
+print("hello")
+===
 
 A code block
 ------------
