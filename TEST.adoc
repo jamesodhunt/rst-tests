@@ -22,6 +22,12 @@ Title
 Basics
 ------
 
+.An Example Sidebar
+************************************************
+Any AsciiDoc SectionBody element (apart from
+SidebarBlocks) can be placed inside a sidebar.
+************************************************
+
 - *bold text*
 - `mono space`
 - _emphasis_
