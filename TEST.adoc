@@ -59,5 +59,6 @@ A code block
 
 [source,bash]
 $ make foo
+$ make bar
 
 hello world.
